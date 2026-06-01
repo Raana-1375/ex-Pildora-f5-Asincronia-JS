@@ -1,4 +1,4 @@
-# Formative Píldora: JavaScript Asynchrony 🚀
+# Formative Píldora: JavaScript Asynchrony 
 
 Este repositorio contiene el código práctico utilizado para la sesión de la píldora formativa sobre **Asincronía en JavaScript**. El objetivo principal es demostrar visualmente cómo operan los flujos de trabajo asíncronos y mostrar la evolución desde los Callbacks tradicionales hasta las Promises y Async/Await modernos.
 
@@ -14,7 +14,7 @@ En este proyecto, utilizamos la **Analogía de un Restaurante**:
 
 ---
 
-## 🛠️ Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```text
 ├── index.html   # Estructura HTML básica para ejecutar el script en el navegador
