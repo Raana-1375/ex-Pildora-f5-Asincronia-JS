@@ -16,4 +16,4 @@ const promotiontopromote = async () => { console.log("1. order placed");
      const result = await cookPizza(); 
      console.log(result); console.log("3. serve drink to another tables"); };
 setTimeout(() => { promotiontopromote();
-}, 3000);
+}, 4000);
